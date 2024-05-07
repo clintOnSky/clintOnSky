@@ -22,7 +22,7 @@ I'm a React Native Developer with a passion for crafting user-centric and intuit
 
 Here are some of the projects I'm working on:
 
-- **[TransLect(https://github.com/clintOnSky/Speech-to-Text)]** - This is can be used to transcribe audio to text and also get a summary/explanation of what was said in the audio recording.
+- **TransLect(https://github.com/clintOnSky/Speech-to-Text)** - This is can be used to transcribe audio to text and also get a summary/explanation of what was said in the audio recording.
 
 ### Let's Connect!
 
