@@ -2,11 +2,7 @@
 
 I'm a React Native Developer with a passion for crafting user-centric and intuitive mobile experiences. I'm currently working on an e-commerce B2B mobile application.
 
-<h1>Hello 👋 There</h1>
-<p>I'm Emmanuel Kingsley, a Full Stack Web Developer who enjoys transforming concepts into useful and aesthetically beautiful online applications that provide value to consumers. I'm skilled in both front-end and back-end development, allowing me to create end-to-end solutions that not only look good but also work well.</p>
- 💬 Feel free to ask me about **React-js and Frontend Styling**
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=clintOnSky&show_icons=true&locale=en&layout=compact" alt="clintOnSky" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=clintOnSky&show_icons=true&locale=en&layout=compact" alt="clintOnSky" />
 
 ### Technical Skills
 
