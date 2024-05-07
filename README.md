@@ -1,51 +1,38 @@
-### Hi there 👋
+## Hi there 👋, I'm Clinton Onaiwu
 
-<!--
-**clintOnSky/clintOnSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a React Native Developer with a passion for crafting user-centric and intuitive mobile experiences. I'm currently working on an e-commerce B2B mobile application.
 
-Here are some ideas to get you started:
+<h1>Hello 👋 There</h1>
+<p>I'm Emmanuel Kingsley, a Full Stack Web Developer who enjoys transforming concepts into useful and aesthetically beautiful online applications that provide value to consumers. I'm skilled in both front-end and back-end development, allowing me to create end-to-end solutions that not only look good but also work well.</p>
+ 💬 Feel free to ask me about **React-js and Frontend Styling**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi there, I'm [Your Name]! 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=clintOnSky&show_icons=true&locale=en&layout=compact" alt="clintOnSky" /></p>
 
-[Optional: Add a profile picture here by uploading an image to your repository and referencing it. For instance: ![Your Name](path/to/your/image.jpg)]
+### Technical Skills
 
-I'm a [Your Job Title/Area of Expertise] with a passion for [mention your areas of interest]. I'm currently [briefly describe what you're working on/focusing on].
+- React Native
+- Git
+- TypeScript
+- JavaScript
+- C#
 
-### Skills
+### Soft Skills
 
-* [List your technical skills (e.g., Programming Languages, Frameworks)]
-* [List your soft skills (e.g., Communication, Teamwork)]
+- Communication
+- Teamwork
+- Problem-Solving
 
 ### Projects
 
 Here are some of the projects I'm working on:
 
-* **[Project 1 Name](link to the repository)** - [Short description of the project].
-* **[Project 2 Name](link to the repository)** - [Short description of the project].
-* **[Project 3 Name] (link to the repository, if applicable)** - [Short description of the project]. (Consider adding more projects if you have them)
+- **[TransLect(https://github.com/clintOnSky/Speech-to-Text)]** - This is can be used to transcribe audio to text and also get a summary/explanation of what was said in the audio recording.
 
 ### Let's Connect!
 
 I'm always interested in connecting with other developers and learners. Feel free to reach out to me via:
 
-* **Email:** [Your Email Address]
-* **LinkedIn:** [Your LinkedIn Profile URL]  (You can add links to other social media profiles as well)
-
-**Looking to contribute?**
-
-I welcome contributions to my open-source projects! Please refer to the contribution guidelines for each project.  (This section is optional; include it only if your repositories are open to contributions)
-
-**Want to learn more?**
-
-[Optional: Include a link to your personal website or blog if you have one]
+- **Email:** clintonnonaiwu@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/clinton-onaiwu-36a182249/
 
 **Happy coding!**
