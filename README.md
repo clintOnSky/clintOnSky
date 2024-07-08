@@ -4,20 +4,6 @@ I'm a React Native Developer with a passion for crafting user-centric and intuit
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clintOnSky&show_icons=true&locale=en&layout=compact" alt="clintOnSky" />
 
-### Technical Skills
-
-- React Native
-- Git
-- TypeScript
-- JavaScript
-- C#
-
-### Soft Skills
-
-- Communication
-- Teamwork
-- Problem-Solving
-
 ### Projects
 
 Here are some of the projects I'm working on:
@@ -29,6 +15,6 @@ Here are some of the projects I'm working on:
 I'm always interested in connecting with other developers and learners. Feel free to reach out to me via:
 
 - **Email:** clintonnonaiwu@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/clinton-onaiwu-36a182249/
+- **LinkedIn:** https://www.linkedin.com/in/clinton-onaiwu/
 
 **Happy coding!**
