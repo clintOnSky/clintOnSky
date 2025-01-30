@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Clinton Onaiwu
 
-I'm a React Native Developer with a passion for crafting user-centric and intuitive mobile experiences. I'm currently working on an e-commerce B2B mobile application.
+I'm a React Native Developer with a passion for crafting user-centric and intuitive mobile experiences.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clintOnSky&show_icons=true&locale=en&layout=compact" alt="clintOnSky" />
 
